@@ -3,7 +3,10 @@
 # SQL Quries
 
 ###### Table Setup (DDL)
-CREATE TABLE cd.members
+
+
+
+    CREATE TABLE cd.members
     (
        memid integer NOT NULL, 
        surname character varying(200) NOT NULL, 
